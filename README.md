@@ -21,8 +21,7 @@ Se evaluará: detalle de respuestas, capacidad, rol que desempeñan (hay espacio
 - ¿Tienes ideas de apps o algo propio que quieras desarrollar? (ya sea como startup o libre para la comunidad)
 
 **Resuelva las siguientes preguntas en un repositorio aparte y linkealas en tu readme.md**
-## Problema 1 - Python:
-Para los siguientes arreglos
+## Problema 1 - Python: Para los siguientes arreglos
 1. [1,1,1,0,2,1,0,0,2,0,1,0]
 2. [1,1,1,0,2,1,0,0,2,0,0,0,1]
 3. [0,2,2,2,0,0,0,1,2,1,1,0,0,0]
