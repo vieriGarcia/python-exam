@@ -27,14 +27,14 @@ Se evaluará: detalle de respuestas, capacidad, rol que desempeñan (hay espacio
 3. [0,2,2,2,0,0,0,1,2,1,1,0,0,0]
 4. [3,3,3,3,3,3,3,1,0,0,0,1]
 
-Cada arreglo representa una parcela, que tiene en cada posición una regadera. Dicha regadera tiene un valor que representa su alcance, por ejemplo en la parcela: [0,0,0,1] la regadera de la posición &quot;4&quot; puede regar 1 espacio más aparte de su misma ubicación ![](RackMultipart20201004-4-d5kd3z_html_2d8791c86d907d57.png) .
+Cada arreglo representa una parcela, que tiene en cada posición una regadera. Dicha regadera tiene un valor que representa su alcance, por ejemplo en la parcela: [0,0,0,1] la regadera de la posición &quot;4&quot; puede regar 1 espacio más aparte de su misma ubicación ![](https://res.cloudinary.com/openlab-pe/image/upload/v1601789562/temporal/2.png) .
 
 Nota:
 
 - Cada valor &quot;X&quot; indica que una regadera puede regar una distancia &quot;X&quot; hacia ambas direcciones (Derecha e izquierda) como indica la figura.
 - El cero indica que solo se riega así misma.
 
-![](RackMultipart20201004-4-d5kd3z_html_df302043e43ab3e.png)
+![](https://res.cloudinary.com/openlab-pe/image/upload/v1601789532/temporal/1.png)
 
 El objetivo de este problema es crear un algoritmo que me indique por cada arreglo presentado, la cantidad mínima de regaderas que se necesita prender para regar toda la parcela.
 
