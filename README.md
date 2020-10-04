@@ -20,8 +20,8 @@ Se evaluará: detalle de respuestas, capacidad, rol que desempeñan (hay espacio
   - Product Owner
 - ¿Tienes ideas de apps o algo propio que quieras desarrollar? (ya sea como startup o libre para la comunidad)
 
-1. **Resuelva las siguientes preguntas en un repositorio aparte y linkealas en tu readme.md**
-  1. Problema 1 - Python: Para los siguientes arreglos
+**Resuelva las siguientes preguntas en un repositorio aparte y linkealas en tu readme.md**
+- Problema 1 - Python: Para los siguientes arreglos
     1. [1,1,1,0,2,1,0,0,2,0,1,0]
     2. [1,1,1,0,2,1,0,0,2,0,0,0,1]
     3. [0,2,2,2,0,0,0,1,2,1,1,0,0,0]
@@ -40,7 +40,7 @@ El objetivo de este problema es crear un algoritmo que me indique por cada arreg
 
 Si tienen una duda sobre este problema, pueden comunicarse con Edwin Deza al 987645213 y él resolverá sus dudas.
 
-  1. Problema 2 - Django:
+## Problema 2 - Django:
 
 Hacer un proyecto Django con las siguientes características
 
