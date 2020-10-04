@@ -21,11 +21,12 @@ Se evaluará: detalle de respuestas, capacidad, rol que desempeñan (hay espacio
 - ¿Tienes ideas de apps o algo propio que quieras desarrollar? (ya sea como startup o libre para la comunidad)
 
 **Resuelva las siguientes preguntas en un repositorio aparte y linkealas en tu readme.md**
-## Problema 1 - Python: Para los siguientes arreglos
-    1. [1,1,1,0,2,1,0,0,2,0,1,0]
-    2. [1,1,1,0,2,1,0,0,2,0,0,0,1]
-    3. [0,2,2,2,0,0,0,1,2,1,1,0,0,0]
-    4. [3,3,3,3,3,3,3,1,0,0,0,1]
+## Problema 1 - Python:
+Para los siguientes arreglos
+1. [1,1,1,0,2,1,0,0,2,0,1,0]
+2. [1,1,1,0,2,1,0,0,2,0,0,0,1]
+3. [0,2,2,2,0,0,0,1,2,1,1,0,0,0]
+4. [3,3,3,3,3,3,3,1,0,0,0,1]
 
 Cada arreglo representa una parcela, que tiene en cada posición una regadera. Dicha regadera tiene un valor que representa su alcance, por ejemplo en la parcela: [0,0,0,1] la regadera de la posición &quot;4&quot; puede regar 1 espacio más aparte de su misma ubicación ![](RackMultipart20201004-4-d5kd3z_html_2d8791c86d907d57.png) .
 
